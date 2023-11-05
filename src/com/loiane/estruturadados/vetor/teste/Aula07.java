@@ -13,6 +13,7 @@ public class Aula07 {
 		vetor.adiciona("F");
 		vetor.adiciona("G");
 
+		
 		System.out.println(vetor);
 
 		vetor.adiciona(0, "A");

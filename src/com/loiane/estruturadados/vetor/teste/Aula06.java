@@ -8,6 +8,7 @@ public class Aula06 {
 		
 		Vetor vetor = new Vetor(10);
 
+		
 		vetor.adiciona("Curso");
 		vetor.adiciona("Estrutura de Dados");
 		vetor.adiciona("Loaine Gromer");

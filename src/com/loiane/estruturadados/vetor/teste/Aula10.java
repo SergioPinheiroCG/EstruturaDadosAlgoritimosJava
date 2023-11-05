@@ -24,14 +24,14 @@ public class Aula10 {
 	 
 	 int pos = vetor.busca(c4);
 	 if (pos > -1) {
-		 System.out.println("Elemento exitse no vetor");
+		 System.out.println("Elemento existe no vetor");
 		 
 	 } else {
 		 System.out.println("Elemento nao existe no vetor");
 	 }
 	 
 	 System.out.println(vetor);
-	 
+	 System.out.println(vetor);
 	 
 	}
 

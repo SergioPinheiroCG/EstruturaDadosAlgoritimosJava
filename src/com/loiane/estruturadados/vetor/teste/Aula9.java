@@ -6,6 +6,7 @@ public class Aula9 {
 
 	public static void main(String[] args) {
 		
+		
 		Vetor vetor = new Vetor(3);
 
 		vetor.adiciona("B");
